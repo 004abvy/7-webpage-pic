@@ -12,8 +12,8 @@ body {
 
 .crop-image{
 
-    width: 160px;
-    height: 180px;
+    width: 25%;
+    height: 10%;
     object-fit:cover;
     object-position:0px 2.5px;
     border-radius: 50%;
@@ -21,36 +21,36 @@ body {
 }
 
 .about-container {
-  max-width: 600px;
-  margin: 50px auto;
+  max-width: 40%;
+  margin: 2% auto;
   background: rgb(255, 255, 255);
-  padding: 20px;
-  border-radius: 100px;
+  padding: 2%;
+  border-radius: 7%;
   box-shadow: 0 0 30px rgb(11, 218, 221, 0.731);
 }
 .education {
-  max-width: 600px;
-  margin: 50px auto;
+  max-width: 40%;
+  margin: 2% auto;
   background: white;
-  padding: 30px;
-  border-radius: 10px;
+  padding: 2%;
+  border-radius: 7%;
   box-shadow: 0 0 30px rgba(11, 218, 221, 0.731);
   overflow-x: visible;
 }
 .Contacts {
-  max-width: 600px;
-  margin: 50px auto;
-  background: white;
-  padding: 30px;
-  border-radius: 10px;
-  box-shadow: 0 0 30px rgba(11, 218, 221, 0.731);
+   max-width: 40%;
+  margin: 2% auto;
+  background: rgb(255, 255, 255);
+  padding: 2%;
+  border-radius: 7%;
+  box-shadow: 0 0 30px rgb(11, 218, 221, 0.731);
 }
 .profile-pic {
-  width: 150px;
-  height: 150px;
+  width: 15%;
+  height: 15%x;
   border-radius: 50%;
   object-fit: cover;
-  margin-bottom: 20px;
+  margin-bottom: 20%;
 }
 .footer{
   
