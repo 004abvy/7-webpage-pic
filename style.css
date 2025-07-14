@@ -1,0 +1,58 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+  color: #160c2d;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  text-shadow:#612ae1;
+  
+
+}
+
+.crop-image{
+
+    width: 160px;
+    height: 180px;
+    object-fit:cover;
+    object-position:0px 2.5px;
+    border-radius: 50%;
+    
+}
+
+.about-container {
+  max-width: 600px;
+  margin: 50px auto;
+  background: rgb(255, 255, 255);
+  padding: 20px;
+  border-radius: 100px;
+  box-shadow: 0 0 30px rgb(11, 218, 221, 0.731);
+}
+.education {
+  max-width: 600px;
+  margin: 50px auto;
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 30px rgba(11, 218, 221, 0.731);
+  overflow-x: visible;
+}
+.Contacts {
+  max-width: 600px;
+  margin: 50px auto;
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 30px rgba(11, 218, 221, 0.731);
+}
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
+.footer{
+  
+    text-align: right;
+}
